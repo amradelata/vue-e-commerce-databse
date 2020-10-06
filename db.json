@@ -31,7 +31,7 @@
       "id": 3
     },
     {
-      "img_url": "http://dimg.dillards.com/is/image/DillardsZoom/zoom/nike-juvenate-womens-lifestyle-shoes/04388514_zi_vintage_green_outdoor_green_metallic_field.jpg",
+      "img_url": "https://images-na.ssl-images-amazon.com/images/I/61utX8kBDlL.jpg",
       "name": "Shoes #3",
       "price": 320,
       "in_my_cart": false,
@@ -618,83 +618,6 @@
       "email": "amradelata@gmail.com",
       "password": "123",
       "id": 1
-    },
-    {
-      "firstName": "ata",
-      "lastName": "amw",
-      "email": "adr@me.com",
-      "password": "132",
-      "id": 2
-    },
-    {
-      "firstName": "ata",
-      "lastName": "amw",
-      "email": "adr@me.com",
-      "password": "132",
-      "id": 3
-    },
-    {
-      "firstName": "jskdh",
-      "lastName": "asdkj",
-      "email": "asd@me.com",
-      "password": "123",
-      "id": 4
-    },
-    {
-      "firstName": "amr",
-      "lastName": "adel",
-      "email": "amradelata@gmail.com",
-      "password": "123",
-      "id": 5
-    },
-    {
-      "firstName": "amr",
-      "lastName": "adel",
-      "email": "amradelata@gmail.com",
-      "password": "123",
-      "id": 6
-    },
-    {
-      "firstName": "amr",
-      "lastName": "adel",
-      "email": "amradelata@gmail.com",
-      "password": "123",
-      "id": 7
-    },
-    {
-      "firstName": "amr",
-      "lastName": "amr",
-      "email": "amradelata@gmail.com",
-      "password": "123",
-      "id": 8
-    },
-    {
-      "firstName": "amr",
-      "lastName": "adel",
-      "email": "adgfg@aa.com",
-      "password": "4568",
-      "id": 9
-    },
-    {
-      "firstName": "amr",
-      "lastName": "amr",
-      "email": "amr@me.com",
-      "password": "123",
-      "id": 10
-    },
-    {
-      "firstName": "amr",
-      "lastName": "",
-      "email": "amr@gmail.com",
-      "password": "4564",
-      "id": 11
-    },
-    {
-      "firstName": "",
-      "lastName": "",
-      "email": "a,r@me.com",
-      "password": "123",
-      "id": 12
     }
   ]
 }
